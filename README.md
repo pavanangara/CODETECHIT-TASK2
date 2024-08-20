@@ -1,13 +1,21 @@
 NAME: ANGARA SAI DURGA PAVAN
-COMPANY:CODETECH IT SOLUTIONS 
+
+COMPANY:CODETECH IT SOLUTIONS
+
 ID:CT6WTDS300 
+
 DOMAIN:JAVA PROGRAMMING
+
 DURATION: JULY 10th, 2024 to AUGUST 25th 2024
+
 MENTOR:Neela Santhosh Kumar
+
 project name:Student Grade Tracker
 
 abstract:A Java program designed to track and manage student grades across various subjects or assignments.
+
 Features:
+
 - User-friendly menu-driven interface
 - Grade storage using a HashMap for efficient data management
 - Options for adding, editing, and deleting grades
